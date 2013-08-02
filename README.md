@@ -12,7 +12,7 @@ Ctrl + CMD + S
 Ctrl + CMD + B
 ```
 
-* Now you need Terminal to commit changes
+* Bring up Terminal:
 ```
 Alt + Esc
 ```
@@ -30,5 +30,20 @@ Ctrl + CMD + T
 * Open up Skype:
 ```
 Ctrl + CMD + K
+```
+
+* Open up Campfire:
+```
+Ctrl + CMD + C
+```
+
+* Open up Xcode:
+```
+Ctrl + CMD + X
+```
+
+* Open up iMessage:
+```
+Ctrl + CMD + I
 ```
 
